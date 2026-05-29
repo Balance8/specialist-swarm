@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Generated agent/session/skill IDs
+.specialist_ids.json
+.skill_ids.json
+.coordinator_id
+.environment_id
+.last_session_id
+.story_agent_id
+.story_skill_id
+.story_editor_id
+
+# Run outputs
+outputs/
+
+# Env
+.env
